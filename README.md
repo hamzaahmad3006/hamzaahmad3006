@@ -197,16 +197,55 @@ const hamzaAhmad = {
 </div>
 
 <!-- ██████████████████████████████████████████████████████████ -->
-<!--                   GITHUB TROPHIES SECTION                   -->
+<!--                  WORK EXPERIENCE SECTION                    -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## ◈ `< TROPHIES />` ◈
+## ◈ `< WORK EXPERIENCE />` ◈
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hamzaahmad3006&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<table>
+<tr>
+<td align="center" width="120">
+<img width="70" src="https://img.shields.io/badge/🏢-Company-00ffff?style=for-the-badge&labelColor=0d0d0d" />
+</td>
+<td>
+
+### 💼 Junior Developer — [Techloset Solution](https://techloset.com)
+![Status](https://img.shields.io/badge/Status-Currently%20Working-00ffff?style=flat-square&labelColor=0d0d0d)
+&nbsp;
+![Duration](https://img.shields.io/badge/Nov%202025-Present-00ffff?style=flat-square&labelColor=0d0d0d)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-7%2B%20Months-00ffff?style=flat-square&labelColor=0d0d0d)
+
+**Techloset Solution** · Software House · Faisalabad, Pakistan 🇵🇰
+
+- 🛠 &nbsp; Building full-stack web & mobile applications using **MERN Stack** and **React Native**
+- 🤖 &nbsp; Integrating **AI features** and automation into real-world client products
+- ⚡ &nbsp; Working with **Next.js**, **TypeScript**, **Tailwind CSS** & **Firebase**
+- 🐍 &nbsp; Developing **Python automation** scripts and backend services with **FastAPI**
+- 🚀 &nbsp; Collaborating in agile teams to deliver production-ready software solutions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🏆 PROFESSIONAL EXPERIENCE SNAPSHOT             ║
+╠══════════════════════════════════════════════════════════════╣
+║  🏢  Company     →  Techloset Solution (Software House)     ║
+║  💼  Role        →  Junior Developer                        ║
+║  📅  Started     →  November 2025                           ║
+║  ⏱️   Duration    →  7+ Months & Counting                    ║
+║  📍  Location    →  Faisalabad, Pakistan                    ║
+║  🔧  Stack       →  MERN · React Native · Python · AI       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
