@@ -4,7 +4,7 @@
 <!--                    HERO BANNER SECTION                      -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ffff&height=200&section=header&text=HAMZA&fontSize=80&fontColor=00ffff&fontAlignY=38&desc=AI%20Driven%20Developer%20%7C%20MERN%20Stack%20%7C%20React%20Native&descAlignY=60&descColor=ffffff&animation=fadeIn&stroke=00ffff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ffff&height=200&section=header&text=HAMZA%20AHMAD&fontSize=70&fontColor=00ffff&fontAlignY=38&desc=AI%20Driven%20Developer%20%7C%20MERN%20Stack%20%7C%20React%20Native&descAlignY=60&descColor=ffffff&animation=fadeIn&stroke=00ffff&strokeWidth=2" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,11 +14,11 @@
 <br/>
 
 <!-- SOCIAL BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=hamza&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hamza)
+[![Profile Views](https://komarev.com/ghpvc/?username=hamzaahmad3006&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hamzaahmad3006)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hamza?color=00ffff&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/hamza)
+[![GitHub followers](https://img.shields.io/github/followers/hamzaahmad3006?color=00ffff&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/hamzaahmad3006)
 &nbsp;
-[![Years Badge](https://badges.pufler.dev/years/hamza?style=for-the-badge&color=00ffff&logo=github)](https://github.com/hamza)
+[![Years Badge](https://badges.pufler.dev/years/hamzaahmad3006?style=for-the-badge&color=00ffff&logo=github)](https://github.com/hamzaahmad3006)
 
 <br/>
 
@@ -38,8 +38,11 @@
 </div>
 
 ```typescript
-const hamza = {
+const hamzaAhmad = {
+  name:        "Hamza Ahmad",
   title:       "AI Driven Developer | MERN Stack | React Native | Python Automation",
+  github:      "github.com/hamzaahmad3006",
+  portfolio:   "portfolio-maharonlines-projects.vercel.app",
   location:    "🌍 Pakistan",
   focus:       ["Agentic AI", "MERN Stack", "React Native", "Python Automation"],
   currentWork: "Building AI-Powered full-stack products & automation systems",
@@ -181,13 +184,13 @@ const hamza = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzaahmad3006&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmad3006&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border_radius=10" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza&bg_color=0d0d0d&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmad3006&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmad3006&bg_color=0d0d0d&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=10" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -203,7 +206,7 @@ const hamza = {
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hamza&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hamzaahmad3006&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -324,12 +327,11 @@ const hamza = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamza)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://hamza.dev)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hamza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ahmad-6aab63337)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-maharonlines-projects.vercel.app/)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaahmad3006@gmail.com)
 
 <br/>
 
@@ -355,7 +357,7 @@ const hamza = {
 
 ```
 "The best way to predict the future is to build it with AI."
-                                          — Hamza, probably 🤖
+                                 — Hamza Ahmad, probably 🤖
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -373,9 +375,9 @@ const hamza = {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza/hamza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza/hamza/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hamza/hamza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -392,7 +394,7 @@ const hamza = {
 
 <br/>
 
-**⚡ Hamza — AI Driven Developer | MERN Stack | React Native | Python Automation ⚡**
+**⚡ Hamza Ahmad — AI Driven Developer | MERN Stack | React Native | Python Automation ⚡**
 
 <br/>
 
@@ -403,8 +405,7 @@ const hamza = {
 
 <br/>
 
-<!-- VISITOR COUNTER FOOTER -->
-<img src="https://profile-counter.glitch.me/hamza/count.svg" alt="Visitor Counter" />
+<img src="https://profile-counter.glitch.me/hamzaahmad3006/count.svg" alt="Visitor Counter" />
 
 </div>
 
