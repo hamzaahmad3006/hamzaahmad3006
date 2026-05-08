@@ -184,13 +184,13 @@ const hamzaAhmad = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.demolab.com/api?username=hamzaahmad3006&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaahmad3006&theme=tokyo_night" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=hamzaahmad3006&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border_radius=10" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.demolab.com/api/top-langs/?username=hamzaahmad3006&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmad3006&bg_color=0d0d0d&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=10" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzaahmad3006&theme=tokyo_night" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzaahmad3006&theme=tokyo_night&utcOffset=5" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
