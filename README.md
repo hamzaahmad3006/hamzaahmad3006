@@ -228,45 +228,59 @@ const hamzaAhmad = {
 <tr>
 <td width="50%">
 
-### 🤖 AI Automation Agent Platform
-> **Full-stack agentic AI platform** powered by LangChain, OpenAI & MERN Stack. Features autonomous task execution, multi-step reasoning, and real-time streaming.
+### 🏥 RadiologyAI Assistant
+> **AI-powered X-ray analysis platform** — upload chest X-rays, get disease predictions (Pneumonia, TB), confidence scores, abnormality heatmaps, and an interactive AI Q&A engine that explains findings in plain language.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://radiology-ai-8bst.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 📱 React Native AI Mobile App
-> **Cross-platform mobile app** integrating GPT-4 for real-time AI chat, voice recognition, and smart notifications. Built with React Native + Firebase.
+### 📄 Health Docs AI
+> **AI-powered medical document processing system** — OCR integration for scanned reports, LLM-driven extraction & summarization using Gemini & Groq, async background tasks, and a modern React dashboard with real-time data visualization.
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=flat-square&logo=firebase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://vercel.com/maharonlines-projects/health-job-report-agent-1o4l)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 MERN Stack SaaS Dashboard
-> **Production-grade SaaS application** — Next.js frontend, Node/Express API, MongoDB Atlas, with real-time analytics and Stripe integration.
+### 📊 Project Management Dashboard
+> **Full-stack MERN analytics dashboard** — role-based access (Manager/Member), JWT + Google OAuth, real-time KPIs, doughnut & area charts, budget tracking, weekly calendar, and a pixel-perfect Figma-implemented UI.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://project-management-system-two.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🐍 Python Automation Toolkit
-> **Enterprise-grade Python automation suite** — web scraping, data pipelines, email automation, scheduled tasks, and AI-enhanced data processing.
+### 🎙️ NCAST — Podcast Streaming App
+> **Cross-platform React Native podcast app** — full-featured audio player with background playback, mini-player, offline downloads, push notifications (OneSignal), Google & Apple Sign-In, and a beautiful custom UI matching Figma specs.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+[![Mobile App](https://img.shields.io/badge/📱_Mobile_App-555555?style=flat-square&logoColor=white)](https://github.com/bootcampwise/Project2-PodCastApp)
 
 </td>
 </tr>
@@ -401,7 +415,7 @@ const hamzaAhmad = {
 *Crafting the future, one commit at a time.*
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00ffff?style=for-the-badge&labelColor=0d0d0d)
-![Powered by AI](https://img.shields.io/badge/Powered%20by-AI%20🤖-00ffff?style=for-the-badge&labelColor=0d0d0d)
+![Hamza Ahmad](https://img.shields.io/badge/Built%20by-Hamza%20Ahmad-00ffff?style=for-the-badge&labelColor=0d0d0d)
 
 <br/>
 
