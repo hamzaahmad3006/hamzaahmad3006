@@ -184,12 +184,12 @@ const hamzaAhmad = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzaahmad3006&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaahmad3006&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.demolab.com/api?username=hamzaahmad3006&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=hamzaahmad3006&theme=black-ice&hide_border=true&background=0d0d0d&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border_radius=10" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaahmad3006&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.demolab.com/api/top-langs/?username=hamzaahmad3006&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_radius=10&langs_count=10" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmad3006&bg_color=0d0d0d&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=10" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -427,11 +427,7 @@ const hamzaAhmad = {
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hamzaahmad3006/hamzaahmad3006/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaahmad3006&bg_color=0d0d0d&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=10&custom_title=Hamza%20Ahmad's%20Contribution%20Graph" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -455,10 +451,6 @@ const hamzaAhmad = {
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00ffff?style=for-the-badge&labelColor=0d0d0d)
 ![Hamza Ahmad](https://img.shields.io/badge/Built%20by-Hamza%20Ahmad-00ffff?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
-
-<img src="https://profile-counter.glitch.me/hamzaahmad3006/count.svg" alt="Visitor Counter" />
 
 </div>
 
