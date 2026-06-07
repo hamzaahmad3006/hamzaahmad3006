@@ -1,6 +1,21 @@
 # 🚀 Hamza Ahmad
 
-**AI-Driven Developer | MERN Stack Engineer | React Native | AI Voice Agents**
+**AI Engineer | Full-Stack Developer (MERN) | React Native | AI Voice & Agent Systems**
+
+---
+
+## 🎙️ Featured AI Project (Flagship)
+
+### 🏥 AI Doctor Appointment Voice Agent
+An intelligent **voice-based AI agent system** designed for healthcare appointment booking and patient interaction.
+
+- 🎙️ Voice-enabled patient interaction system  
+- 🧠 AI-powered appointment scheduling logic  
+- 🏥 Healthcare-focused conversational agent  
+- ⚙️ Automation of booking + response handling  
+- 🔗 Designed for real-world clinic/hospital integration  
+
+> “An AI system that allows patients to book appointments using natural voice conversation instead of manual forms.”
 
 ---
 
@@ -8,21 +23,20 @@
 
 ```ts
 const hamza = {
-  role: "AI Driven Full-Stack Developer",
-  focus: ["Agentic AI", "MERN Stack", "React Native", "AI Voice Agents"],
-  currentWork: "Building AI-powered SaaS products and automation systems",
-  interests: ["LLMs", "RAG Systems", "AI Agents", "Voice AI Systems"],
-  goal: "Build real-world AI systems that solve practical problems"
+  role: "AI Engineer & Full-Stack Developer",
+  focus: ["Agentic AI", "AI Voice Agents", "MERN Stack", "React Native"],
+  currentWork: "Building AI-powered healthcare and automation systems",
+  interests: ["LLMs", "RAG Systems", "Voice AI", "AI Agents"],
+  goal: "Create real-world AI systems that automate human workflows"
 };
 ```
 
-- 🔭 Building AI-powered web & mobile applications  
-- 🤖 Working on Agentic AI and LLM-based systems  
-- 🎙️ Developing AI Voice Agents (healthcare-focused & automation assistants)  
-- 🌱 Learning advanced AI orchestration (LangChain, RAG, Agents)  
-- ⚙️ Automating workflows using Python (AI-assisted scripting)  
+- 🤖 Building Agentic AI systems  
+- 🎙️ Developing AI Voice Agents (healthcare + automation use cases)  
+- 🌱 Learning advanced AI orchestration (LangChain, RAG, Multi-Agent systems)  
+- ⚙️ Automating workflows using AI-assisted Python scripting  
 - 📱 Developing cross-platform apps with React Native  
-- 🎯 Focused on real-world deployable AI products  
+- 🎯 Focused on deployable real-world AI products  
 
 ---
 
@@ -32,28 +46,28 @@ const hamza = {
 React • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS
 
 ### Backend
-Node.js • Express.js • Python (Basics + AI-assisted Automation) • FastAPI
+Node.js • Express.js • Python (AI-assisted scripting) • FastAPI
 
 ### Databases
 MongoDB • PostgreSQL • Firebase • Redis
 
 ### AI / ML
-OpenAI API • Gemini • Groq • LangChain • RAG Pipelines • Prompt Engineering • Vector Databases • AI Voice Agents
+OpenAI API • Gemini • Groq • LangChain • RAG Pipelines  
+AI Voice Systems • Prompt Engineering • Vector Databases
 
 ### DevOps & Tools
 Git • GitHub • Docker • Linux • Vercel • AWS • VS Code
 
 ---
 
-## 🤖 AI Focus Area
+## 🤖 AI Focus Areas
 
 - Agentic AI systems  
-- LLM integration (OpenAI / Gemini / Groq)  
-- AI Voice Agents (Healthcare + Automation use-cases)  
-- RAG-based applications  
-- AI automation pipelines  
+- AI Voice Agents (Healthcare & Automation)  
+- LLM integrations (OpenAI / Gemini / Groq)  
+- RAG-based intelligent systems  
 - Multi-agent workflows  
-- Python-based automation tools (AI-assisted)
+- AI-powered automation pipelines  
 
 ---
 
@@ -64,59 +78,59 @@ Git • GitHub • Docker • Linux • Vercel • AWS • VS Code
 
 - Built full-stack applications using MERN & React Native  
 - Integrated AI features into production systems  
-- Developed backend services using Python (FastAPI)  
-- Worked on real client projects in agile environment  
-- Implemented automation workflows for business processes  
-- Assisted in building AI-powered features and tools  
+- Developed backend services using FastAPI (Python)  
+- Worked on real client-based production projects  
+- Built automation workflows for business systems  
+- Contributed to AI-powered feature development  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 RadiologyAI Assistant
-AI-powered medical imaging system for X-ray analysis  
-- Disease prediction (Pneumonia, TB)  
-- AI explanations using LLMs  
+AI-powered X-ray analysis system  
+- Disease detection (Pneumonia, TB)  
+- AI explanation system using LLMs  
 - Heatmap visualization  
-- Built with Next.js + FastAPI + PyTorch + Groq  
+- Next.js + FastAPI + PyTorch + Groq  
 
 ---
 
 ### 📄 Health Docs AI
-Medical document AI processing system  
-- OCR-based document extraction  
+AI-based medical document processing system  
+- OCR-based extraction  
 - AI summarization (Gemini + Groq)  
-- Async backend processing  
+- Async processing pipeline  
 - React dashboard with analytics  
 
 ---
 
-### 📊 Project Management Dashboard
-Full-stack MERN dashboard system  
-- Role-based access control  
-- JWT + OAuth authentication  
-- Real-time analytics & charts  
-- Budget & task tracking system  
+### 📊 Project Management System
+Full-stack MERN dashboard  
+- Role-based authentication  
+- Real-time analytics  
+- Budget & task tracking  
+- JWT + OAuth system  
 
 ---
 
 ### 🎙️ NCAST Podcast App
-React Native audio streaming app  
-- Background playback  
+React Native audio platform  
+- Background audio playback  
 - Offline downloads  
 - Push notifications  
-- Google + Apple authentication  
+- Social authentication  
 
 ---
 
 ## 🎯 Current Focus
 
-- AI Voice Agents (Healthcare & Automation systems)  
-- Agentic AI using LangChain  
-- RAG + Vector Database systems  
-- Scalable AI SaaS products  
-- Cross-platform AI applications  
-- Python automation with AI assistance  
+- 🎙️ AI Voice Agents for healthcare systems  
+- 🤖 Agentic AI using LangChain  
+- 🧠 RAG + Vector Database architectures  
+- ⚙️ AI automation pipelines  
+- 🌐 Scalable AI SaaS products  
+- 📱 Cross-platform AI applications  
 
 ---
 
@@ -128,6 +142,6 @@ React Native audio streaming app
 
 ---
 
-## ⚡ Quote
+## ⚡ Closing
 
-> “Build systems, not just projects.”
+> “I build AI systems that replace manual workflows with intelligent automation.”
